@@ -17,10 +17,10 @@
 </p>
 
 
-## I'm a Student and Developer !!
+## I'm a Developer !!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Learn more and enhance skills
 - ⚡ Fun fact: I like to watch TV series and anime
 
 
